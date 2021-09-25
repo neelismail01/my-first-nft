@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Athlete",
+      "value" : "Rafal Nadal"
+    }, {
+      "trait_type" : "Sport",
+      "value" : "Tennis"
+    } ],
+    "description" : "Nadal Hype US Open.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmRXqw98DLmD48BAt5a9yYc48opTH9kkuUx1QCQzPi8Kbr",
+    "name" : "Nadal Hype"
+}
